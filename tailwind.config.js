@@ -12,7 +12,11 @@ export default {
         ironBlue: "#047889",
         lightStone: "#F4F5FB",
         darkGray: "#ACACAD",
-        someWhite: "#ECFFF8"
+        someWhite: "#ECFFF8",
+        waterBlue: "#258EA6",
+        snowWhite: "#ECFFF8",
+        lightPurple: "#E3DAFF",
+        purple: "#C589E8"
       }
     },
   },
